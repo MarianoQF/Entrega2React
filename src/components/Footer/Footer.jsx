@@ -8,7 +8,7 @@ function Footer() {
             <div className="footer__content">
                 <div className="footer__logo">
                     <Link to="/">
-                        <img src="/imgs/brandLogo/Logo Perichon no slogan.jpg" alt="brand Logo" className="brandLogoHeader"/>
+                        <img src="/imgs/brandLogo/logoFarmaq3.png" alt="brand Logo" className="brandLogoHeader"/>
                     </Link>
                 </div>
 
@@ -21,33 +21,33 @@ function Footer() {
                             <Link to="/">Todos</Link>
                         </li>
                         <li className="quickMenu__item">
-                            <Link to="/category/trapos">Trapos</Link>
+                            <Link to="/category/higiene personal">Higiene Personal</Link>
                         </li>
                         <li className="quickMenu__item">
-                            <Link to="/category/rejilla">Rejillas</Link>
+                            <Link to="/category/Insumos">Insumos</Link>
                         </li>
                         <li className="quickMenu__item">
-                         <Link to="/category/paño">Paños</Link>
+                         <Link to="/category/Remedios">Remedios</Link>
                         </li>
                         <li className="quickMenu__item">
-                            <Link to="/category/franela">Franela</Link>
+                            <Link to="/category/Perfumeria">Perfumería</Link>
                         </li>
                     </ul>
                 </div>
 
                 <ul className="footer__socialMedia">
                     <li className="socialMedia__item">
-                        <a className="socialMedia__item-content a" href="https://wa.me/543794809317">
+                        <a className="socialMedia__item-content a" href="">
                             <img className="a__img" src="/imgs/footerImg/whatsapp.png" alt="whatsapp icon"/>
                         </a>
                     </li>
                     <li className="socialMedia__item">
-                        <a className="socialMedia__item-content a" href="https://www.instagram.com/trapos_perichon/">
+                        <a className="socialMedia__item-content a" href="">
                             <img className="a__img" src="/imgs/footerImg/instagram.png" alt="instagram icon"/>
                         </a>
                     </li>
                     <li className="socialMedia__item">
-                        <a className="socialMedia__item-content a" href="https://www.facebook.com/traposperichon">
+                        <a className="socialMedia__item-content a" href="">
                             <img className="a__img" src="/imgs/footerImg/facebook.png" alt="facebook icon"/>
                         </a>
                     </li>
@@ -58,7 +58,7 @@ function Footer() {
                 <span></span>
                 <div >
                     <p className="rights__text">
-                        © 2023 PERICHON Todos los derechos reservados - by <a href="https://github.com/MarianoQF">MarianoQF</a>
+                        © 2023 FARMAQ Todos los derechos reservados - by <a href="https://github.com/MarianoQF">MarianoQF</a>
                     </p>          
                 </div>
             </div>

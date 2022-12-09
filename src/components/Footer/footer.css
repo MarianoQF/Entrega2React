@@ -3,7 +3,7 @@
     .footer .footer__content {
       display: flex;
       align-items: center;
-      background-color: #E33532;
+      background-color: #0071b8;
       justify-content: space-around;
       margin: auto;
       margin-bottom: 0 !important; }
@@ -24,21 +24,21 @@
         .footer .footer__content .quickMenu__content .quickMenu__title h4 {
           font-size: 2rem;
           font-weight: bolder;
-          color: black; }
+          color: rgb(220, 218, 218); }
         .footer .footer__content .quickMenu__content .quickMenu__item {
           transition: transform 0.3s; }
           .footer .footer__content .quickMenu__content .quickMenu__item:hover {
             transform: scale(1.2);
             transition: ease-out 0.3s; }
           .footer .footer__content .quickMenu__content .quickMenu__item a {
-            color: black;
+            color: rgb(220, 218, 218);
             font-size: 1.5rem;
             font-weight: 400;
-            color: black; }
+            color: rgb(220, 218, 218); }
             .footer .footer__content .quickMenu__content .quickMenu__item a:hover {
               transform: scale(5.2);
               transition: ease-out 0.2s;
-              color: #DEC513; }
+              color: #00d641; }
       .footer .footer__content .footer__socialMedia {
         display: flex;
         justify-content: center; }
@@ -47,7 +47,7 @@
         .footer .footer__content .footer__socialMedia .socialMedia__item-content {
           width: 3rem;
           height: 3rem;
-          background-color: #E33532;
+          background-color: #0071b8;
           text-align: center;
           line-height: 4rem;
           margin: 0 10px;
@@ -80,18 +80,18 @@
     top: 0; }
   
   .footer__socialMedia li:nth-child(1) a:before {
-    background: #DEC513; }
+    background: #00d641; }
   
   .footer__socialMedia li:nth-child(2) a:before {
-    background: #DEC513; }
+    background: #00d641; }
   
   .footer__socialMedia li:nth-child(3) a:before {
-    background: #DEC513; }
+    background: #00d641; }
   
   .footer__rights {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    background-color: #E33532;
+    background-color: #0071b8;
     justify-content: center;
     padding-top: 2rem;
     margin: auto; }
@@ -99,9 +99,9 @@
       justify-self: center;
       text-align: center;
       font-size: 1rem;
-      color: black;
+      color: rgb(220, 218, 218);
       font-weight: 300; }
       .footer__rights .rights__text a {
-        color: black; }
+        color: rgb(220, 218, 218); }
 
 

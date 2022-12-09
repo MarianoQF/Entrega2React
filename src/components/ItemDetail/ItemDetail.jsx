@@ -10,7 +10,6 @@ function ItemDetail({ product }) {
       <div className="card-detail_detail">
         <h2>{product.title}</h2>
         <ul className="card-detail_list"> 
-          <li><b>Medidas: </b>{product.measures}</li>
           <li><b>Color: </b>{product.color}</li>
           <li><b>Presentacion: </b>{product.presentation}</li>
           <li><b>Caracteristicas: </b></li>
